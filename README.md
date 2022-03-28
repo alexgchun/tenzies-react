@@ -8,3 +8,22 @@ This project is a dice clicking game and allows users to roll and hold dice unti
 
 Live Site: https://subtle-dango-524816.netlify.app/
 # Built with
+- React.js
+- HTML5
+- CSS
+- Flexbox
+- Grid
+# My Aproach
+The app is made up of 2 main components, 'App' and 10 'Die' components.
+
+explain, renders 10 random die
+
+explain, hold dice,
+
+explain generate new die
+
+explain, roll die and tenzies true logic
+
+# Challenges
+
+localStorage 
